@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/HackedRecipe/static/css/main.3be08c03.chunk.css",
+    "main.js": "/HackedRecipe/static/js/main.837fe95b.chunk.js",
+    "main.js.map": "/HackedRecipe/static/js/main.837fe95b.chunk.js.map",
+    "runtime-main.js": "/HackedRecipe/static/js/runtime-main.3dd5e75b.js",
+    "runtime-main.js.map": "/HackedRecipe/static/js/runtime-main.3dd5e75b.js.map",
+    "static/css/2.11829350.chunk.css": "/HackedRecipe/static/css/2.11829350.chunk.css",
+    "static/js/2.bcd063d2.chunk.js": "/HackedRecipe/static/js/2.bcd063d2.chunk.js",
+    "static/js/2.bcd063d2.chunk.js.map": "/HackedRecipe/static/js/2.bcd063d2.chunk.js.map",
+    "index.html": "/HackedRecipe/index.html",
+    "precache-manifest.ee3096c14ead745d6e24f8756e3dac12.js": "/HackedRecipe/precache-manifest.ee3096c14ead745d6e24f8756e3dac12.js",
+    "service-worker.js": "/HackedRecipe/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/HackedRecipe/static/css/2.11829350.chunk.css.map",
+    "static/css/main.3be08c03.chunk.css.map": "/HackedRecipe/static/css/main.3be08c03.chunk.css.map",
+    "static/js/2.bcd063d2.chunk.js.LICENSE.txt": "/HackedRecipe/static/js/2.bcd063d2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/HackedRecipe/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3dd5e75b.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.bcd063d2.chunk.js",
+    "static/css/main.3be08c03.chunk.css",
+    "static/js/main.837fe95b.chunk.js"
+  ]
+}
